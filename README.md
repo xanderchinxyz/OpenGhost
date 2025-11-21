@@ -1,6 +1,6 @@
 # OpenGhost
 
-This is the repository for OpenGhost, an open-source Pepper's Ghost display that uses a Raspberry Pi 5 with a camera, square screen, and a beam splitter cube as the transparent reflector, which sits on top of the screen. Additional peripherals, such as microphones, can be added for some more interactivity via the USB ports.
+This is the repository for OpenGhost, an open-source Pepper's Ghost display that uses a Raspberry Pi 5 with a camera, square screen, and a beam splitter cube as the transparent reflector, which sits on top of the screen. Additional peripherals, such as microphones, speakers, etc., can be added for some more interactivity via the USB ports.
 
 OpenGhost intends to be a futuristic and aesthetic display medium that can run all sorts of visual and interactive programs, so feel free to get creative by adding your own scripts or modifying the hardware/designs!
 
