@@ -27,7 +27,7 @@ I'm using the Python library [py5](https://py5coding.org/index.html) to display 
 - Enable the square display on the Pi by following [these instructions](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307). If you used a different display, follow the manufacturer's instructions to enable it
 - Install a virtual environment with system site packages `python -m venv .venv --system-site-packages`
 - Install Java headless using `sudo apt update && sudo apt install default-jdk`
-- Install py5 using `pip install py5` (requires java)
+- Install py5 using `pip install py5` (requires Java)
 - Clone this repo
 
 #### If The Camera Is Being Used
